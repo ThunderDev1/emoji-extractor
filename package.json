@@ -1,0 +1,28 @@
+{
+  "name": "emoji-extractor",
+  "version": "1.0.0",
+  "description": "Extract emojis from emojipedia",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThunderDev1/emoji-extractor.git"
+  },
+  "keywords": [
+    "emojis",
+    "emoji-mart",
+    "emojipedia"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThunderDev1/emoji-extractor/issues"
+  },
+  "homepage": "https://github.com/ThunderDev1/emoji-extractor#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "emoji-mart": "^2.8.1"
+  }
+}
