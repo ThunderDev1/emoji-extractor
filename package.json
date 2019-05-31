@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ThunderDev1/emoji-extractor#readme",
   "dependencies": {
-    "axios": "^0.18.0",
-    "emoji-mart": "^2.8.1"
+    "emoji-mart": "^2.8.1",
+    "node-fetch": "2.6.0"
   }
 }
