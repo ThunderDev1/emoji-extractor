@@ -23,6 +23,6 @@
   "homepage": "https://github.com/ThunderDev1/emoji-extractor#readme",
   "dependencies": {
     "emoji-mart": "^2.8.1",
-    "node-fetch": "2.6.0"
+    "node-fetch": "2.6.7"
   }
 }
